@@ -1,7 +1,7 @@
 {
     "judgments": [
         {
-            "text": "<size=150%><color=#00ffb3>JAJAJA</color></size>",
+            "text": "<size=150%><color=#00ffb3>JAJAJAJ</color></size>",
             "color": [0.0, 1.0, 0.667, 1],
             "threshold": 115,
             "fade": true
