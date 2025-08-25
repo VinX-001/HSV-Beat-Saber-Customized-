@@ -1,1 +1,11 @@
-
+{
+  "id": "hitscorevisualizer-custom",
+  "name": "HitScoreVisualizer Custom",
+  "author": "Your Adversary",
+  "version": "0.1.0",
+  "packageId": "com.beatgames.beatsaber",
+  "packageVersion": "1.40.8", 
+  "description": "Customized HSV config - 1st time.",
+  "modloader": "QuestLoader",
+  "dependencies": []
+}
